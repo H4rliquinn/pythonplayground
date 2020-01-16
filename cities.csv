@@ -1,0 +1,7 @@
+city,state_name,county_name,lat,lng,population,density,timezone,zips
+Seattle,Washington,King,47.6217,-122.3238,3541236,3243,America/Los_Angeles,98109 98108 98104 98107
+Richmond,Virginia,Richmond (city),37.5294,-77.4755,1041877,1440,America/New_York,23219 23222 23223
+Virginia Beach,Virginia,Virginia Beach (city),36.7335,-76.0435,1487505,699,America/New_York,23459 23451 23453 
+Washington,District of Columbia,District of Columbia,38.9047,-77.0163,5191844,4301,America/New_York,20010 
+Milwaukee,Wisconsin,Milwaukee,43.0640,-87.9669,1377104,2388,America/Chicago,53203 53202 53207 53206 53205 
+Orlando,Florida,Orange,28.4801,-81.3448,1757288,1041,America/New_York,32829 32827 32824 32822 32804 32805 
